@@ -4,7 +4,7 @@
 
 Download and display an image via NSURL Session.
 
-## How to Install - iOS
+## How to Install
 
 You need Xcode 8 or later. And an iOS device running at least iOS 9.
 
