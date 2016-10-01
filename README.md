@@ -6,7 +6,7 @@ Download and display an image via NSURL Session.
 
 ## How to Install
 
-You need Xcode 8 or later. And an iOS device running at least iOS 9.
+You need Xcode 8 or later and an iOS device running at least iOS 9.
 
 Step 1
 
@@ -31,7 +31,7 @@ Step 4
 
 Build and run the application.
 
-- When running this application on a device you will need to add a signing profile in the project's Build Settings.
+(When you running this application on a device you will need to add a signing profile in the project's Build Settings.)
 
 
 ## Tested
