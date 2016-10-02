@@ -1,6 +1,6 @@
 ![PixzlNSURLSession](pixzlnsurlsession-logo.png)
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](License)
 
 Download and display an image via NSURL Session.
 
